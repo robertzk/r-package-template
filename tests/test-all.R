@@ -1,3 +1,2 @@
-library("testthat")
-library("mungebits2")
-test_check("mungebits2")
+library(testthat)
+test_package('r-package-template')
