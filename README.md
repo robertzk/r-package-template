@@ -5,5 +5,3 @@ This repository offers a basic template for R packages that already includes
 Travis and [covr](http://github.com/jimhester/covr) integration.
 
 
-
-[![Build Status](https://travis-ci.org/robertzk/r-package-template.svg?branch=master)](https://travis-ci.org/robertzk/r-package-template)
