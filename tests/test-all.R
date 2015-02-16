@@ -1,2 +1,3 @@
-library(testthat)
-test_package('r-package-template')
+library("testthat")
+library("package.name")
+test_check("package.name")
